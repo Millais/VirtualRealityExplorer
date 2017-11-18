@@ -8,9 +8,9 @@
 <table>
   <tbody>
     <tr>
-      <td><img src="images/BTDIcon.png" width="100" height="100"</td>
+      <td><img src="images/BTDIcon.png" width="125" height="125"</td>
       <td width="200px" align="center"> <a href="#BTD"> Be The Data </a></td>
-      <td><img src="images/PPIcon.png" width="100" height="100"</td>
+      <td><img src="images/PPIcon.png" width="125" height="125"</td>
       <td width="200px" align="center"> <a href="#PP"> Parallel Planes </a></td>
     </tr>
   </tbody>
@@ -25,7 +25,7 @@ Recent research in the personal informatics field has focused on correlating asp
 
 In this study we evaluate the open-ended exploration of multidimensional datasets using two separate visualisations. *Be The Data* immerses users in a three-dimensional scatter plot, allowing them to interpret a dataset from new perspectives. The second visualisation, *Parallel Planes*, enables a multi-faceted dataset to be chained together, supporting users in perceiving a holistic overview of interrelated dimensions.
 
-Through an insight-based evaluation methodology, we find that users conducted depth-based explorations of the Parallel Planes visualisation, arriving at valuable and significant insights through hypothesising about the data. We also find that there was no overall task-workload difference between traditional visualisation paradigms and virtual reality. We conclude by outlining future research directions, and making recommendations for future evaluation approaches for data visualisation in VR.
+Through an insight-based evaluation methodology, we find that users conducted depth-based explorations of the Parallel Planes visualisation, arriving at valuable and significant insights through hypothesising about the data. We also find that there was no overall task-workload difference between traditional visualisation paradigms and virtual reality. We conclude by outlining future research directions, and make recommendations for future evaluation approaches for data visualisation in VR.
 
 Project Outline
 --------
