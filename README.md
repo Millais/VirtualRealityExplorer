@@ -16,7 +16,7 @@
   </tbody>
 </table>
 
-<a href="mailto:patrickmillais@gmail.com?Subject=Personal%20Data%20Visualisation%20In%20VR">Get in touch</a> if you are interested in reading more.
+The full dissertation is available on [Opus](http://opus.bath.ac.uk/56619/) and the University of Bath's [research portal](https://researchportal.bath.ac.uk/en/publications/visualisation-and-exploration-of-personal-data-in-virtual-reality).
 
 
 Abstract
